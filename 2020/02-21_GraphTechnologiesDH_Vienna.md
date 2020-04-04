@@ -14,11 +14,11 @@ Modelling the Scholarly Process
   
   **=>** embrace diversity of data models, but: **publish them** (mapping and matching)
 
-> * [E. Dröge (2010). Leitfaden für das Verbinden von Ontologien, Information Wissenschaft und Praxis 61 (2), 143-147](https://www.phil-fak.uni-duesseldorf.de/fileadmin/Redaktion/Institute/Informationswissenschaft/forschung/wissensrepraesentation/1268059439iwp_61_201.pdf)
-> * [U. Brandes - G. Robins - A. McCranie - S. Wasserman (2013). What is network science?, Network Science, 1(1), 1–15. DOI: 10.1017/nws.2013.2](https://doi.org/10.1017/nws.2013.2)
-> * [J. Flanders -- F. Jannidis (2015). Knowledge Organization and Data Modeling in the Humanities](https://nbn-resolving.org/urn:nbn:de:bvb:20-opus-111270)
-> * [Y. Hui (2012). What is a Digital Object?, Metaphilosophy, 43, 380-395. DOI:10.1111/j.1467-9973.2012.01761.x](https://doi.org/10.1111/j.1467-9973.2012.01761.x)
-> * [M. Shanks (2007). Symmetrical archaeology, World Archaeology, 39 (4), 589-596. DOI:10.1080/00438240701679676](https://doi.org/10.1080/00438240701679676)
+> * [E. Dröge (2010). Leitfaden für das Verbinden von Ontologien, Information Wissenschaft und Praxis 61 (2), 143-147](https://www.phil-fak.uni-duesseldorf.de/fileadmin/Redaktion/Institute/Informationswissenschaft/forschung/wissensrepraesentation/1268059439iwp_61_201.pdf) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L14-L24)
+> * [U. Brandes - G. Robins - A. McCranie - S. Wasserman (2013). What is network science?, Network Science, 1(1), 1–15. DOI: 10.1017/nws.2013.2](https://doi.org/10.1017/nws.2013.2) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L35-L45)
+> * [J. Flanders -- F. Jannidis (2015). Knowledge Organization and Data Modeling in the Humanities](https://nbn-resolving.org/urn:nbn:de:bvb:20-opus-111270) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L26-L33)
+> * [Y. Hui (2012). What is a Digital Object?, Metaphilosophy, 43, 380-395. DOI:10.1111/j.1467-9973.2012.01761.x](https://doi.org/10.1111/j.1467-9973.2012.01761.x) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L3-L12)
+> * [M. Shanks (2007). Symmetrical archaeology, World Archaeology, 39 (4), 589-596. DOI:10.1080/00438240701679676](https://doi.org/10.1080/00438240701679676) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L47-L57)
 > * Tool [arrowtool by A. Jones](http://www.apcjones.com/arrows/), ![GitHub][github-icon] [apcj/arrows](https://github.com/apcj/arrows)
 
 
@@ -31,5 +31,5 @@ Modelling the Scholarly Process
 [github-icon]: http://i.imgur.com/9I6NRUm.png (on GitHub)
 
 <!-- improvements. -->
-<!-- 1. link to bibtex for reference  https://www.phil-fak.uni-duesseldorf.de/fileadmin/Redaktion/Institute/Informationswissenschaft/forschung/wissensrepraesentation/1268059439iwp_61_201.pdf -->
+<!-- 1. link to bibtex for reference https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet -->
 
