@@ -23,7 +23,8 @@ Topics: Archaeology, Digital Humanities, Computer Science (but with focus on Arc
 * Add them to literature.bib first and push to repository
 * Add a reference into the respective note with:
 ```
-> * [E. Dröge (2010). Leitfaden für das Verbinden von Ontologien, Information Wissenschaft und Praxis 61 (2), 143-147](https://www.phil-fak.uni-duesseldorf.de/fileadmin/Redaktion/Institute/Informationswissenschaft/forschung/wissensrepraesentation/1268059439iwp_61_201.pdf) [`BibTex`](<github permalink>)
+> * [E. Dröge (2010). Leitfaden für das Verbinden von Ontologien, Information
+ Wissenschaft und Praxis 61 (2), 143-147](<some link>) [`BibTex`](<github permalink>)
 ```
 * [Add a permalink](https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet) to the respective lines in literature.bib
 
