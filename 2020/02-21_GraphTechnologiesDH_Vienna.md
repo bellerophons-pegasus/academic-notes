@@ -7,14 +7,15 @@ Modelling the Scholarly Process
 * ![On Twitter][twitter-icon] [#graph2020](https://twitter.com/hashtag/graph2020)
 
 ## Session 1 - Modelling the Scholarly Process
-### Modeling as a Scholarly Process - The Impact of Modeling Decisions on Data-Driven Research Practices 
+
+### Modeling as a Scholarly Process - The Impact of Modeling Decisions on Data-Driven Research Practices
 
 (Aline Deicke ![On Twitter][twitter-icon] [@alinedeicke](https://twitter.com/alinedeicke))
 
 * data model as basis for AI
 * used CIDOC CRM for data modeling
   * social processes with CRMsoc
-  
+
   **=>** embrace diversity of data models, but: **publish them** (mapping and matching)
 
 > * [E. Dröge (2010). Leitfaden für das Verbinden von Ontologien, Information Wissenschaft und Praxis 61 (2), 143-147](https://www.phil-fak.uni-duesseldorf.de/fileadmin/Redaktion/Institute/Informationswissenschaft/forschung/wissensrepraesentation/1268059439iwp_61_201.pdf) [`BibTex`](https://github.com/bellerophons-pegasus/academic-notes/blob/6f79c623bb8afef5b0a4e4cea1c6ad70e56022af/literature.bib#L14-L24)
@@ -34,7 +35,3 @@ Modelling the Scholarly Process
 [github-icon]: http://i.imgur.com/9I6NRUm.png (on GitHub)
 <!-- own icons -->
 [slides-icon]: https://raw.githubusercontent.com/bellerophons-pegasus/academic-notes/master/icons/slide-icon.png
-
-<!-- improvements. -->
-<!-- 1. link to bibtex for reference https://help.github.com/en/github/managing-your-work-on-github/creating-a-permanent-link-to-a-code-snippet -->
-
