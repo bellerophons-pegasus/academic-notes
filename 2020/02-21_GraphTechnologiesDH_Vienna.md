@@ -46,10 +46,10 @@ Modelling the Scholarly Process
 
 (Francesco Beretta, Rhône-Alpes)
 
-> [Symogih](http://symogih.org/) - a modular system for managing historical information; event centered data model/ontology
-> [OntoME](http://ontome.dataforhistory.org/) - product of project [Data for History](http://dataforhistory.org/); -> CRMhist
-> [Geovistory Toolbox](https://geovistory.com/home) (only with login)
-> Mentioned a video by Harald Sack on YouTube about AI (not found); [Knowledge Engineering with Semantic Web Technologies](https://www.youtube.com/watch?v=eJ9H1SakPoA&list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
+> * [Symogih](http://symogih.org/) - a modular system for managing historical information; event centered data model/ontology
+> * [OntoME](http://ontome.dataforhistory.org/) - product of project [Data for History](http://dataforhistory.org/); -> CRMhist
+> * [Geovistory Toolbox](https://geovistory.com/home) (only with login)
+> * Mentioned a video by Harald Sack on YouTube about AI (not found); [Knowledge Engineering with Semantic Web Technologies](https://www.youtube.com/watch?v=eJ9H1SakPoA&list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
 
 <!-- https://github.com/carlsednaoui/gitsocial -->
 [twitter-icon]: http://i.imgur.com/wWzX9uB.png (on Twitter)
