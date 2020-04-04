@@ -10,7 +10,7 @@ Modelling the Scholarly Process
 
 ### Modeling as a Scholarly Process - The Impact of Modeling Decisions on Data-Driven Research Practices
 
-(Aline Deicke ![On Twitter][twitter-icon] [@alinedeicke](https://twitter.com/alinedeicke))
+(Aline Deicke, Mainz ![On Twitter][twitter-icon] [@alinedeicke](https://twitter.com/alinedeicke))
 
 * data model as basis for AI
 * used CIDOC CRM for data modeling
@@ -26,9 +26,30 @@ Modelling the Scholarly Process
 > * Tool [arrowtool by A. Jones](http://www.apcjones.com/arrows/), ![GitHub][github-icon] [apcj/arrows](https://github.com/apcj/arrows) -- *library for drawing small graphs*
 
 
+### Towards Scholarly Modelling with Graph Technology. Data before Schema
 
+(Thomas Efer, Leipzig)
 
+* schemas are good, but what about interoperability?
+* Scientific modelling
+  * Mental model
+  * Data model (and data types)
+  * Conceptual model (-> larger and more abstract)
+  * Domain model
+  * Process model
+* TaDiRAH: -> [modeling](https://github.com/dhtaxonomy/TaDiRAH/blob/master/reference/activities.md#modeling)
+* Complex example: modelling of representation of names (e.g. Arabic)
+  * -> the modeling process already includes thinking of e.g. search, display etc
+* "modeling" = "coming to know" 
 
+### Collaborative Modelling of Historical Information and Information Extraction from Sources
+
+(Francesco Beretta, Rhône-Alpes)
+
+> [Symogih](http://symogih.org/) - a modular system for managing historical information; event centered data model/ontology
+> [OntoME](http://ontome.dataforhistory.org/) - product of project [Data for History](http://dataforhistory.org/); -> CRMhist
+> [Geovistory Toolbox](https://geovistory.com/home) (only with login)
+> Mentioned a video by Harald Sack on YouTube about AI (not found); [Knowledge Engineering with Semantic Web Technologies](https://www.youtube.com/watch?v=eJ9H1SakPoA&list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
 
 <!-- https://github.com/carlsednaoui/gitsocial -->
 [twitter-icon]: http://i.imgur.com/wWzX9uB.png (on Twitter)
