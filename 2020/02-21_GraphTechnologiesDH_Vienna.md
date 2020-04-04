@@ -6,6 +6,8 @@ Modelling the Scholarly Process
 * [Programme (PDF)](https://f.hypotheses.org/wp-content/blogs.dir/4521/files/2020/02/Graph-Technologies-Conference-UWien-2020.pdf)
 * ![On Twitter][twitter-icon] [#graph2020](https://twitter.com/hashtag/graph2020)
 
+Topics: graphs, network analysis, digital humanities, annotation, natural language processing (NLP), 
+
 ## Session 1 - Modelling the Scholarly Process
 
 ### Modeling as a Scholarly Process - The Impact of Modeling Decisions on Data-Driven Research Practices
