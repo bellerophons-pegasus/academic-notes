@@ -110,6 +110,72 @@ Topics: graphs, network analysis, digital humanities, annotation, natural langua
   * markov chains
 * Tools [NetworkX](https://networkx.github.io/), Python for network analysis; [Python and NetworkX](https://python-louvain.readthedocs.io/en/latest/), community detection
 
+## Session 3 - Short Presentations (15 min)
+
+### A Comparison of Graph and Collection-based Representations of Early Modern Biographical Archives
+
+(Meadhbh Healy, Thomas O'Connor, John Keating, Maynooth Univ.)
+
+* About data integrity in graph databases
+* Comparison of Neo4j an dMongoDB
+  * time to get data in and time to get data out (no indexing in Neo4j used)
+  * comparison of features
+* Did not write down conclusion
+  
+### Famine and Feast: The Problem of Sources for Linked Data Creation
+
+(Rainer Simon , AIT Austria ![On Twitter][twitter-icon] [@aboutgeo](https://twitter.com/aboutgeo) and Rebecca Kahn, HU Berlin ![On Twitter][twitter-icon] [@rebamex](https://twitter.com/rebamex))
+
+* About [Pelagios project](http://pelagios.org/) (![GitHub][github-icon] [pelagios](https://github.com/pelagios); ![On Twitter][twitter-icon] [@PelagiosNetwork](https://twitter.com/pelagiosnetwork); pelagios-network@googlegroups.com) and [Recogito](https://recogito.pelagios.org/) for annotation
+* [The Homer Multitext Project](http://www.homermultitext.org/)
+* ![GitHub][github-icon] [alan-turing-institute/lwm_GIR19_resolving_places](https://github.com/alan-turing-institute/lwm_GIR19_resolving_places), *Resolving Places, Past and Present: Toponym Resolution in Historical British Newspapers Using Multiple Resources*
+
+### Working Collaboratively on Graphs
+
+(Marco Petris, Hamburg)
+
+* [Computer Assisted Text Markup and Analysis (CATMA)](https://catma.de/), for annotating texts
+* [forTEXT](https://fortext.net/), helps in analysing digital texts
+* Did actual collaboration via git
+
+
+### SPARQLing Ogham Stones - Neue Analysemöglichkeiten analoger Editionen durch Digitalisierung in Wikidata
+
+(Sophie C. Schmidth, Köln ![On Twitter][twitter-icon] [@idhrenil](https://twitter.com/idhrenil) and Florian Thiery, Mainz ![On Twitter][twitter-icon] [@fthierygeo](https://twitter.com/fthierygeo))
+
+* Using Wikidata for Ogham stones; [ogham.link](http://ogham.link/); ![GitHub][github-icon] [ogi-ogham](https://github.com/ogi-ogham)
+
+
+### The Socinian Correspondence: A Graph-based Digital Scholarly Edition -- Generic Tools and Approach
+
+(Patrick Toschka, Julian Jarosch, Andreas Kuczera, Mainz)
+
+![Slides][slides-icon] [Slides](https://digicademy.github.io/2020-02-21_socinian_correspondence/)
+
+* Digital edition of about 2133 letters
+* Tool [eXGraphs](https://lod.academy/site/tools/digicademy/exgraphs) for extracting from XML into graph
+* -> [LOD.ACADEMY](https://lod.academy/site/)
+* Tool [GRACE](https://lod.academy/site/tools/digicademy/grace) a proof of concept for graph content editing
+
+### Using Graph Technologies to Interconnect and Enrich Public-Domain Music Resources
+
+(David M. Weigl and Werner Goebl, Vienna)
+
+![Slides][slides-icon] [Slides](https://docs.google.com/presentation/d/1RyaoLOrr-IU7mPHO_6Ahn8bd056tGO3ZDqkPOClepfw/)
+
+* About project [TROMPA](https://trompamusic.eu/) ![On Twitter][twitter-icon] [@trompamusic](https://twitter.com/trompamusic)
+  * aims to interlink and enrich existing repositories
+* uses [MEI (Music Encoding Initiative)](https://music-encoding.org/) and [MELD (Music Encoding and Linked Data)](https://github.com/oerc-music/meld)
+  * MELD was developed for the [Lohengrin Time Machine, Oxford](https://lohengrin.linkedmusic.org/) and [here](https://um.web.ox.ac.uk/lohengrin)
+* used [solidproject.org](https://solidproject.org/) for finding access rights (?)
+
+## Keynote: Tracing our steps: new tools and new standards for academic transparency
+
+(Charlotte Roueché, King's College London (very charismatic keynote))
+
+
+
+
 
 
 <!-- https://github.com/carlsednaoui/gitsocial -->
