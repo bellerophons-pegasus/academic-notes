@@ -11,6 +11,7 @@ Subtitle, etc.
 ### Talk
 
 (Author ![On Twitter][twitter-icon] [@twitter](link))
+
 ![Slides][slides-icon] [Slides](link)
 
 * notes
