@@ -173,10 +173,53 @@ Topics: graphs, network analysis, digital humanities, annotation, natural langua
 
 (Charlotte Roueché, King's College London (very charismatic keynote))
 
+* Licensing & Copyright first traces and steps to be found in activities of the [Worshipful Company of Stationers](https://en.wikipedia.org/wiki/Worshipful_Company_of_Stationers_and_Newspaper_Makers)
+* Elsevier had a loose predecessor: [Elzivir](https://en.wikipedia.org/wiki/House_of_Elzevir); its logo is based on a tree printed in 1653
+* Digital Humanities: too much stuff **=>** we are responsible for it; thus have to preserve, disseminate, and share it; ideally: public
+* Why link data? Because we can? **=>** for a fuller account
+* [P. Lem (2020). Humanities data sharing ‘should consider non-traditional channels’](https://www.researchprofessionalnews.com/rr-news-europe-universities-2020-2-humanities-data-sharing-should-consider-non-traditional-channels/) [`BibTeX`](xxx)
+* [SAWS ontology](https://ancientwisdoms.ac.uk/method/ontology/) for describing relations of texts
+* [GODOT](https://godot.date/), a gazetteer of calendar dates in different calendar systems
+* Recommendations by [ALLEA](https://allea.org/)
+  * [N. Harrower -- M. Maryl -- T. Biro -- B. Immenhauser (2020). Sustainable and FAIR Data Sharing in the Humanities. DOI:10.7486/DRI.tq582c863](https://doi.org/10.7486/DRI.tq582c863) [`BibTeX`](xxx)
+* *show the process* there is no excuse for not showing it; and there is enough space
+* "Linked Ancient Data" cloud
+* [FRBRoo](http://www.cidoc-crm.org/frbroo/home-0), a formal ontology intended to capture and represent the underlying semantics of bibliographic information as extension for CIDOC CRM
 
+## Session 4 - Graphs and the Arts
 
+### Redoing Hairballs: Visualizing Complex Arts & Humanities Data in Multiple Spaces and Time
 
+(Florian Windhager ![On Twitter][twitter-icon] [@windhagr](https://twitter.com/windhagr), Saminu Salisu, Eva Mayr, Donau-Uni Krems)
 
+* About visualisation of large graphs
+* [T. von Landesberger -- A. Kuijper -- T. Schreck -- J. Kohlhammer -- J. van Wijk -- J.-D. Fekete -- D. Fellner (2011). Visual Analysis of Large Graphs: State‐of‐the‐Art and Future Research Challenges, Computer Graphics Forum, 30, 1719-1749. DOI:10.1111/j.1467-8659.2011.01898.x](https://doi.org/10.1111/j.1467-8659.2011.01898.x) [`BibTeX`](https://github.com/bellerophons-pegasus/academic-notes/blob/3ea4f88d15a7e4815b445574077ab32a5c49607f/literature.bib#L181-L192)
+* [F. Beck -- M. Burch -- S. Diehl -- D. Weiskopf (2014). The State of the Art in Visualizing Dynamic Graphs, in: EuroVis - STARs. DOI:10.2312/eurovisstar.20141174](http://dx.doi.org/10.2312/eurovisstar.20141174) [`BibTeX`](https://github.com/bellerophons-pegasus/academic-notes/blob/3ea4f88d15a7e4815b445574077ab32a5c49607f/literature.bib#L194-L204)
+* Options vor visualisation
+  * linked timeline
+  * animation
+  * color coding
+  * juxtaposition
+  * space time cube
+  * **->** one method is not enough
+* [M. Dörk -- C. Pietsch -- G. Credico (2017). One view is not enough. High-level visualizations of a large cultural collection, Information Design Journal, 23 (1), 39-47. DOI:10.1075/idj.23.1.06dor](https://doi.org/10.1075/idj.23.1.06dor)  [`BibTeX`](https://github.com/bellerophons-pegasus/academic-notes/blob/3ea4f88d15a7e4815b445574077ab32a5c49607f/literature.bib#L206-L217)
+* [Visualization of Cultural Heritage Collection Data: State of the Art](http://collectionvis.org/)
+* [polycube project](https://www.donau-uni.ac.at/en/university/faculties/business-globalization/departments/knowledge-communication-management/research/projects/polycube.html)
+* ![GitHub][github-icon] [alan-turing-institute/danubevislab](https://github.com/danubevislab), esp. [page with visualisation](https://danubevislab.github.io/)
+
+### Graphbasierte Wege durch Bilderzählungen. Eine digitale Edition von Giovanni Domenico Tiepolos Bildzyklus Divertimento per li Regazzi auf der Grundlage von CIDOC CRM
+
+(Rostislav Tumanov, Gabriel Viehhauser, Alina Feldmann, Barbara Koller, Uni Stuttgart)
+
+* Representing text as graph; [CollateX](https://collatex.net/)
+* used [GraphDB](http://graphdb.ontotext.com/) a semantic graph database
+* [Erlangen CRM / OWL](http://erlangen-crm.org/)
+
+### Reimnetzwerke als Untersuchungsgegenstand der Mediävistik
+
+(Thomas Jäger, pagina GmbH)
+
+* about the work of Konrad Zwierzina about Reimnetzwerke (network of rhymes)
 
 <!-- https://github.com/carlsednaoui/gitsocial -->
 [twitter-icon]: http://i.imgur.com/wWzX9uB.png (on Twitter)
