@@ -213,7 +213,7 @@ Topics: graphs, network analysis, digital humanities, annotation, natural langua
 
 * Representing text as graph; [CollateX](https://collatex.net/)
 * used [GraphDB](http://graphdb.ontotext.com/) a semantic graph database
-* [Erlangen CRM / OWL](http://erlangen-crm.org/)
+* [Erlangen CRM / OWL](http://erlangen-crm.org/), an OWL-DL 1.0 implementation of the CIDOC Conceptual Reference Model (CIDOC CRM).
 
 ### Reimnetzwerke als Untersuchungsgegenstand der Mediävistik
 
