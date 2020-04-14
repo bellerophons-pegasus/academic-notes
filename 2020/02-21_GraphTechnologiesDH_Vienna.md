@@ -221,6 +221,22 @@ Topics: graphs, network analysis, digital humanities, annotation, natural langua
 
 * about the work of Konrad Zwierzina about Reimnetzwerke (network of rhymes)
 
+## Session 5 - Annotation and Networks
+
+### Modelling the Unthought
+
+(Iian Neill ![On Twitter][twitter-icon] [@codexeditor](https://twitter.com/codexeditor), Chiara Palladino, Andreas Kuczera, Mainz)
+
+* About the project [Codex: an atlas of relations](https://community.neo4j.com/t/codex-an-atlas-of-relations/8277)
+> * [I. Neill -- A. Kuczera (2019). The Codex – an Atlas of Relations. In: A. Kuczera -- T. Wübbena -- T. Kollatz (eds.) Die Modellierung des Zweifels – Schlüsselideen und -konzepte zur graphbasierten Modellierung von Unsicherheiten (= Zeitschrift für digitale Geisteswissenschaften / Sonderbände, 4). DOI: 10.17175/sb004_008](http://dx.doi.org/10.17175/sb004_008) [`BibTeX`](https://github.com/bellerophons-pegasus/academic-notes/blob/686d97460bc3fdad749597deb8384ce0853e88c8/literature.bib#L219-L228)
+
+* Text-as-a-Graph system
+* "stratified annotations", i.e. annotations that overlap; or multilevel annotations
+  * standoff properties (modeled in JSON)
+* TEI without XML
+* represent annotations as a graph
+* spatial relations can also be annotated and represented
+
 <!-- https://github.com/carlsednaoui/gitsocial -->
 [twitter-icon]: http://i.imgur.com/wWzX9uB.png (on Twitter)
 [github-icon]: http://i.imgur.com/9I6NRUm.png (on GitHub)
