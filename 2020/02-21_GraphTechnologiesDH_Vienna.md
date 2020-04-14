@@ -237,6 +237,59 @@ Topics: graphs, network analysis, digital humanities, annotation, natural langua
 * represent annotations as a graph
 * spatial relations can also be annotated and represented
 
+### Graphtechnologien für die Analyse historischer Netzwerke mit heterogenen Datenbeständen
+
+(Elena Leitner, Julian Moreno-Schneider, Georg Rehm, Sina Menzel ![On Twitter][twitter-icon] [@menzelsina](https://twitter.com/menzelsina), Vivien Petras, Mark Jan-Bludau ![On Twitter][twitter-icon] [@markiaaan](https://twitter.com/markiaaan), Marian Dörk, DFKI GmbH, HU Berlin, FH Potsdam)
+
+* About the project SoNAR (Interfaces to Data for Historical Social Network Analysis and Research, ![On Twitter][twitter-icon] [#sonaridh](https://twitter.com/hashtag/sonaridh), [sonar.fh-potsdam.de](https://sonar.fh-potsdam.de/))
+  * combine multiple sources: [GND](https://www.dnb.de/EN/Professionell/Standardisierung/GND/gnd_node.html) (MARC 21, EAD), bibliographic information (MARC 21, EAD), full texts (ATOM, XML)
+  * -> all into Neo4j
+* Discussion:
+  * Is ist possible to get the research question out of the graph?
+  * What do people actually use? What not? (User experience)
+  
+### Early Modern Korea's Localized Yangban Assemblages in Neo4j
+
+(Javier Cha, Robin Wooyeong Na, Seoul National University and Donghyeok Choi, KAIST)
+
+* Looked into changes of social status of families that had [Yangban](https://en.wikipedia.org/wiki/Yangban)
+* Digital Korean Studies; prosopographical/ genealogical work
+* South Korea has about 100 data bases that ore now [publicly accessible](https://www.data.go.kr/); thriving factor was the production of movies; "databases have a history"
+* used [Cytoscape](https://cytoscape.org/)
+
+### Using Graph Models for Annotating Vague and Uncertain Information
+
+(Cristina Vertan, Uni Hamburg)
+
+* vague and uncertain information, i.e. time, geography etc.
+  * originating from different translations of two lost manuscripts
+* project [HerCoRe](https://www.inf.uni-hamburg.de/inst/dmp/hercore/projects.html)
+* used weight of edges and OWL-2 with fuzzy extension
+* used [OrientDB](https://orientdb.com/)
+* reasoning done with [DeLorean](http://webdiis.unizar.es/~fbobillo/delorean)
+
+## General Discussion
+
+* Logical reasoning for graph data bases?
+* Where do we publish?
+  * things that where tried out (also the failed ones)
+  * process
+  * -> try to use what is already there and blend in
+    * e.g. [Research Software Engineers (RSE)](https://rse.ac.uk/)
+    * [Digital Humanities Quarterly (DHQ)](http://www.digitalhumanities.org/dhq/)
+* [The Programming Historian](https://programminghistorian.org/)
+* a manual on GitHub was mentioned, but could not find link
+* no code peer review
+* How to review a website? How to review a digital edition?
+  * Keep in sight the scholar work and not the technicalities
+  * Charlotte Roueché: Publish reviews in a journal and not somewhere else. Otherwise we are reinventing the wheel, which should be avoided
+  * share code! -> sustainable infrastructure
+
+Next conferences
+* 2021: Mainz
+* 2022: Amsterdam
+
+
 <!-- https://github.com/carlsednaoui/gitsocial -->
 [twitter-icon]: http://i.imgur.com/wWzX9uB.png (on Twitter)
 [github-icon]: http://i.imgur.com/9I6NRUm.png (on GitHub)
