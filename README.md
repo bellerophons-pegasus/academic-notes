@@ -7,11 +7,11 @@ Topics: Archaeology, Digital Humanities, Computer Science (but with focus on Arc
 
 * Notes are grouped by year
 * File names:
-  * start with month and first day of event
+  * start with [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) year, month and first day of event
   * followed by _
   * followed by short name of event
   * followed by _
-  * followed by venue (in most cases city or country)
+  * followed by venue (in most cases city or country, remote: online)
 
 ## How To
 
