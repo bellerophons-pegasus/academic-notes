@@ -1,0 +1,38 @@
+# EOSC Symposium 2026
+
+Connecting users, data, and services
+
+* When & Where? 14. – 16. 10. 2026 - Florence, Italy (Palazzo dei Congressi)
+* [Website](https://eosc.eu/symposium-2026)
+* [Programme (PDF)](https://indico.global/event/18268/timetable/?print=1)
+
+## Day 3 (Friday 16 October) – AI Readiness: Towards Rigorous and Trustworthy AI in Science
+
+Auditorium, 10:15. Chair: Florian Jug (Human Technopole)
+
+### Talk
+
+(Mercè Crosas, Director, Computational Social Science and Humanities Laboratory, Barcelona Supercomputing Center, and President of CODATA)
+
+![Slides][slides-icon] [Slides](link)
+
+![AI Adoption Surges Across All Domains](ai_adoption_slide.png)
+
+* Slide title: "AI Adoption Surges Across All Domains" (section "01. AI in Science")
+* Study scope: analysis of 225M academic works from the 1960s to 2024
+* Computer science has been the leading field since the 1990s
+* Adoption of AI methods has expanded rapidly across fields since 2016
+* 2024 AI adoption rates per domain and leading field:
+  * Physical Sciences & Engineering: 10.7% (Computer Science: 23.0%)
+  * Life Sciences: 4.4% (Neuroscience: 10.0%)
+  * Health Sciences: 3.7% (Cardiology: 5.4%)
+  * Social Sciences: 2.8% (Business Management: 5.7%)
+
+  **=>** AI adoption is growing in every domain, with the sharpest rise after 2016, though computer science remains far ahead of the other fields.
+
+> * Castro, Giner, Crosas (2026). [When AI Meets Science](https://doi.org/10.48550/arXiv.2605.06033). arXiv.
+
+<!-- for including icons -->
+<!-- https://github.com/carlsednaoui/gitsocial -->
+<!-- own icons -->
+[slides-icon]: https://raw.githubusercontent.com/bellerophons-pegasus/academic-notes/master/icons/slide-icon.png
