@@ -10,13 +10,15 @@ Connecting users, data, and services
 
 Auditorium, 10:15. Chair: Florian Jug (Human Technopole)
 
-### Talk
+### Talk Mercè Crosas
 
 (Mercè Crosas, Director, Computational Social Science and Humanities Laboratory, Barcelona Supercomputing Center, and President of CODATA)
 
 ![Slides][slides-icon] [Slides](link)
 
-![AI Adoption Surges Across All Domains](ai_adoption_slide.png)
+![Outline](slides/00_outline.jpg)
+
+![AI Adoption Surges Across All Domains](slides/01_ai_adoption_slide.png)
 
 * Slide title: "AI Adoption Surges Across All Domains" (section "01. AI in Science")
 * Study scope: analysis of 225M academic works from the 1960s to 2024
@@ -31,6 +33,128 @@ Auditorium, 10:15. Chair: Florian Jug (Human Technopole)
   **=>** AI adoption is growing in every domain, with the sharpest rise after 2016, though computer science remains far ahead of the other fields.
 
 > * Castro, Giner, Crosas (2026). [When AI Meets Science](https://doi.org/10.48550/arXiv.2605.06033). arXiv.
+
+
+#### 01. AI in Science
+
+![Spectrum of AI engagement in research](slides/01_spectrum_of_ai_engagement.jpg)
+
+* Defines AI broadly, beyond the latest large language models
+* Low engagement treats AI as a black box: a broad user base uses it as a support tool for literature and data searches, peer reviews and research reasoning
+* High engagement means understanding the model itself: specialised researchers use AI as a method for analysis and discovery, foundation model development, model modification (fine-tuning, RAG) and inference execution
+* The study focuses explicitly on high-engagement adoption
+
+  **=>** The talk's main analytical focus is on researchers who go beyond using AI as a black box.
+
+#### 02. Science Values
+
+![Scientific theories and social practice](slides/02_scientific_theories_and_social_practice.jpg)
+
+* Science is the pursuit of good explanations, the "beginning of infinity" in knowledge creation (Deutsch)
+* Good explanations arise from creativity, not only induction and empiricism; fallibilism is fundamental; authority is rejected (*nullius in verba*); prediction alone is not enough
+* Science is a social enterprise governed by norms: public procedures so methods and data can be verified and replicated, accompanied uncertainty, unity in method, and recognition through proper credit ("Citation, citation, citation")
+
+  **=>** Prediction without resilient explanations is not real progress.
+
+![Rapid AI adoption poses threats to science and open science](slides/02_rapid_ai_adoption_threats.jpg)
+
+* Threats to science: disqualification (loss of domain knowledge), disorder (surge of unverified results), motivation loss and conformism, and hyper-empiricism (data without theory)
+* Threats to open science: methodological opacity, replication difficulty, open data exploitation by unaligned commercial scraping, and big tech monopolisation of public research infrastructure
+
+  **=>** Rapid AI adoption threatens both the quality of science and the openness of its infrastructure.
+
+![Addressing threats starts by answering key questions](slides/02_addressing_threats_key_questions.jpg)
+
+* Four key questions: applicability and purpose; validation and transparency; data and governance; human agency and equality
+
+#### 03. European Context
+
+![AI and data regulations to achieve AI and data strategies](slides/03_ai_and_data_regulations.jpg)
+
+* DSA: disclosure and vetted data access for researchers and regulators (early August 2023, full February 2024)
+* DMA: behavioural obligations on gatekeepers (in force since May 2022)
+* AI Act: technical documentation along the value chain, staggered from August 2026
+* GDPR: personal data processing rules (enforcement since 2018)
+* DGA: neutral public data intermediaries framework (enforcement since 2022)
+* Data Act: data portability and fair access, partial in 2025, full in 2026 to 2027
+
+  **=>** The regulations exist, but there is a risk they lack enforcement as AI expands.
+
+![AI factories and data labs](slides/03_ai_factories_and_data_labs.jpg)
+
+* 19 core AI factories and 13 connected antennas across the EuroHPC network, offering compute (GPUs), models, data services, user support, training and domain expert advice
+* Seven sectoral data labs: cybersecurity and internal security, climate and environment, language and culture, health and life sciences, manufacturing and robotics, public administration, and research and science
+* Goal: AI-ready data and connectors from data spaces to AI factories
+
+#### 04. Advancing AI Readiness: The AI4SOCIAL+ Project
+
+![Five interrelated streams to advance AI readiness](slides/04_five_interrelated_streams.jpg)
+
+* Co-create: Stream A, the AI Readiness Common Hub (ARCH) framework; Stream B, machine-actionable data tools; Stream C, an AI-ready infrastructure platform
+* Validate: Stream D, five AI-based social and humanities research use cases
+* Upscale: Stream E, an AI4SOCIAL+ Competence Centre leveraging CESSDA and SSHOC
+* Builds on existing standards and platforms including Croissant, CDIF, RO-Crate, W3C ODRL, DDI-CDI, COMPSs, Galaxy Europe and Onedata
+
+![Five research use cases to validate AI readiness](slides/04_five_research_use_cases.jpg)
+
+* Use case 01: AI for job trajectories (career paths, labour market dynamics, skill transitions)
+* Use case 02: AI in historical archives (transcribing and unlocking cultural and historical records)
+* Use case 03: AI for climate and health policies (informing choices at the intersection of public health and environment)
+* Use case 04: AI for social simulations (modelling complex social behaviour with multi-agent models)
+* Use case 05: beyond academic silos (connecting works across domains through AI graphs)
+
+#### 05. Recommendations
+
+![Recommendation 1: Coordinate AI efforts across EU initiatives](slides/05_recommendation_1_coordinate_ai.jpg)
+
+* The EU already has the ingredients: data and AI regulations and initiatives that can support a trustworthy, sustainable research ecosystem
+* Recommendations to EOSC for alignment: coordinated calls with RAISE and AI Factories; connected data repositories and access across EOSC, Data Labs and Data Spaces; standardised AI readiness using the AI4SOCIAL+ framework; integration with Destination Earth for sustainable AI; co-located events; and targeted funding to study AI's impact on science, equality, labour and social interaction
+* Key initiatives to align: EOSC, RAISE, AI Factories and Data Labs, and Destination Earth
+
+![Recommendation 2: Co-define declarations on AI and science](slides/05_recommendation_2_co_define_declarations.jpg)
+
+* Precedent: the Leiden Declaration on AI and Mathematics (2026), which bases its recommendations on the values of mathematical research it aims to preserve: disclose automated tools, retain human accountability, defend open science and preserve authorship credit (https://leidendeclaration.ai)
+* Call to scientific communities: avoid becoming passive AI users, decide how to integrate AI, express what type of AI the domain needs, address community-specific needs, find commonalities with other fields, and consider impacts and global contexts
+* AI4SOCIAL+ plan: co-create declarations on AI for the social sciences and humanities
+
+  **=>** Each research community should set out its own declaration on AI to protect its disciplinary values, credit and human accountability.
+
+![Recommendation 3: Enforceable data contracts and APIs for AI](slides/05_recommendation_3_enforceable_data_contracts.jpg)
+
+* Precedent: the Wikimedia enterprise model, which stopped open scraping by commercial AI companies, offered paid API contracts for high-volume use, and kept public content free for everyone else
+* Recommendations to research data repositories: balance open science with commercial AI usage limits and contracts, create dedicated AI APIs while keeping open researcher access, embed technical enforcement inside repositories, advocate supportive regulation, enforce model-level access criteria, and use Wikimedia's open-source API services
+* Potential access conditions for AI models: restrict to scientific models, require trustworthy AI compliance, and allow only sustainable (green) AI
+
+  **=>** Repositories should use enforceable data contracts to govern AI training access while keeping research data open to researchers.
+
+#### Summary & Takeaways
+
+![Summary and takeaways](slides/05_summary_takeaways.jpg)
+
+* Balanced AI integration: AI is transforming research quickly, so opportunities must be weighed against risks
+* Standardised AI readiness: the AI4SOCIAL+ project helps define a framework that delivers lasting value for science and society
+* Coordinated EU initiatives: regulation alone is not enough; strategic alignment across computing, data, skills and funding is vital
+* Community AI declarations: research communities must establish declarations that preserve disciplinary values, credit and human accountability
+* Enforceable data contracts: repositories should implement data contracts and structured APIs that regulate AI training access, balanced with open science
+
+---
+
+### Talk: Matteo Zanaroli
+
+(Friday 16 October, Closing Plenary: EOSC Federation: What's next)
+
+![Slides][slides-icon] [Slides](link)
+
+![MoU for HORIZON-INFRA-2025-01-EOSC-01 projects](slides/zanaroli_mou_horizon_infra_eosc.jpg)
+
+* A Memorandum of Understanding aligning EU-funded projects behind one EOSC Federation
+* Projects involved: EOSC Association (coordinator of EOSC Gravity and EOSC United), EOSC4ALL, EOSC-CONNECT, EOSC-Marine and EOSC Mesh
+* Subjects covered: federation architecture (common standards and a joint roadmap), governance (aligned with the Federation's interim governance), engagement (a joint plan aligning node, country and community outreach) and sustainability (shared best practices and exploitable results)
+* Added value: greater impact than any single project, seamless interoperability, one architecture roadmap, less duplication of engagement and sustainability work, and quarterly coordination across technical, governance, engagement and sustainability topics
+
+  **=>** The MoU signature was scheduled for the EOSC Symposium itself.
+
+
 
 <!-- for including icons -->
 <!-- https://github.com/carlsednaoui/gitsocial -->
